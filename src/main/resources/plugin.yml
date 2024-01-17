@@ -1,0 +1,6 @@
+name: InstantShulkers
+version: '${version}'
+main: com.devcember.instantshulkers.InstantShulkers
+api-version: '1.20'
+author: devcember
+description: Open shulker boxes instantly without placing them!
